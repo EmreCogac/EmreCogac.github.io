@@ -1,0 +1,143 @@
+.body{
+    color: #022446;
+}
+.body:hover
+{
+    color: #000102;
+}
+#image1{
+    width: 50px;
+}
+#gun{
+    text-align: center;
+    color: darkgray;
+}
+#gun:hover{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+p.gun{
+        text-align: center;
+     }
+p.gun:hover{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#yaz{
+                margin:70px auto;
+                padding:20px;
+                width: 300px;
+                font-size:24px;
+                background:#022446;
+                color:#000102;
+                border: solid 3px #9f0cbd;
+                text-align: center;
+}
+ body{
+    background:blue;
+    }
+
+    div.Div1{
+        border-top: 5px solid;
+    }
+    p.TALUY{
+        text-align: center;
+    }
+
+    #iframe0{
+        image-orientation: inherit;
+    }
+    .KAEU{
+        text-align: center;
+        margin-top: 80px;
+    }
+    .KAEU1{
+        top: 20px;
+        align-content: center;
+
+    }
+    #nav{
+        border-bottom: 3px rebeccapurple dotted;
+    }
+
+    #kutucuk{
+        background: #c57a52;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        position: absolute;
+        }
+        .panel{
+            width:800px;
+            margin:0 auto;
+            }
+       #resim{
+        position: absolute;
+        margin-top: 10px;
+        width: 40px;
+        display: block;
+       }
+       #div0{
+        padding: 60px;
+       }
+       #dialog{
+           background-color: red;
+       }
+       #dialog:hover{
+           background-color: #448679;
+       }
+       .dp{
+           text-align: center;
+           color: black;
+       }
+       .anima {
+        width: 100px;
+        height: 100px;
+        background: red;
+        position: relative;
+        animation: renkler 5s infinite;
+        animation-direction: alternate;
+      }
+      .nonAnima
+      {
+        width: 100px;
+        height: 100px;
+        background-color: black;   
+      }
+      
+      @keyframes renkler {
+        0%   {background: rgb(2, 0, 0); left: 0px; top: 0px;}
+        25%  {background: rgb(133, 133, 94); left: 300px; top: 0px;}
+        50%  {background: rgb(69, 69, 122); left: 300px; top: 100px;}
+        75%  {background: rgb(144, 155, 144); left: 0px; top: 100px;}
+        100% {background: rgb(189, 129, 129); left: 0px; top: 0px;}
+      }
+      #efekt{
+          position: relative;
+      }
+      .togg{
+        width: 500px; height: 200px; position: relative;
+      }
+      .span1{
+          text-align: center;
+          color: rgb(21, 255, 0);
+      }
+      .span1:hover{
+          text-align: center;
+          color: blueviolet;
+      }
+      .span2{
+          color: rgb(255, 6, 6);
+          border: #ecf0f1;
+          border-radius: 2px;
+      }
+      .span3{
+        color:  rgb(104, 77, 3);
+      }
+    .span4{
+        color: rgb(68, 27, 27);
+    }
+    .span5{
+        color: rgb(175, 0, 0);
+    }
