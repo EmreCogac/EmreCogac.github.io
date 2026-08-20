@@ -1,2 +1,0 @@
-# EmreCogac.github.io
-odev
